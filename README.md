@@ -7,4 +7,4 @@ Definitive Keywords
 
 Currently supporting Github.com's README Project and testing viable payment gateways for Magento Commerce OS (adobe) hosted on aws Cloud (Activate Founder's Program) via Bitnami Launchpad
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp&theme=dark)](https://git.io/streak-stats)
