@@ -7,10 +7,10 @@ My professional aim is to work with other passionate people to `help customers r
 Definitive Keywords 
 `#solutionsoriented` `#businesstechnology` `#sales` `#mediadesign` `#cloud` `#allthingsweb`
 
-Currently supporting Github.com's README Project and testing viable payment gateways for Magento Commerce OS (adobe) hosted on aws Cloud (Activate Founder's Program) via Bitnami by vmware Launchpad
+Currently supporting Github.com's README Project and testing viable payment gateways for Magento Commerce OS (adobe) hosted on aws Cloud (Activate Founder's Program) via Bitnami by vmware Launchpad (now Broadcom) - Sponsoring is Easy - Click `'Sponsor'`
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp&theme=ocean-gradient)](https://git.io/streak-stats)
 
 Supported by 
 
-![Microsoft Windows 10 & 11 Pro x64 arm](https://img.shields.io/badge/Microsoft_Windows-%EE672F.svg?style=flat&logo=windows11&logoColor=0078D4&labelColor=white&color=0078D4) 
+![Microsoft Windows 10 & 11 Pro x64 arm](https://img.shields.io/badge/Microsoft_Windows-%EE672F.svg?style=flat&logo=windows11&logoColor=0078D4&labelColor=white&color=0078D4)
