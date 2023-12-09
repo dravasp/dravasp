@@ -14,3 +14,5 @@ Currently supporting Github.com's README Project and testing viable payment gate
 Supported by 
 
 ![Microsoft Windows 10 & 11 Pro x64 arm](https://img.shields.io/badge/Microsoft_Windows-%EE672F.svg?style=flat&logo=windows11&logoColor=0078D4&labelColor=white&color=0078D4)
+
+![image](https://user-images.linkedinusercontent.com/27689043/image_56224fd2-b179-4b32-999b-c51d2cbc57cd20231209_165617.webp)
