@@ -11,6 +11,10 @@ Currently supporting Github.com's README Project and testing viable payment gate
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp&theme=ocean-gradient)](https://git.io/streak-stats)
 
+I listen to `Post Malone` with `Travis Scott` on queue. Prefer `DTS Ultra` / `Dolby Atmos` at events, theatricals, other days - JBL Headphones.
+
+Banks of Choice - `Kotak Mahindra Bank` on VISA Card Network.
+
 Supported by 
 
 ![Microsoft Windows 10 & 11 Pro x64 arm](https://img.shields.io/badge/Microsoft_Windows-%EE672F.svg?style=flat&logo=windows11&logoColor=0078D4&labelColor=white&color=0078D4)
