@@ -8,10 +8,11 @@ Definitive Keywords
 `#solutionsoriented` `#businesstechnology` `#sales` `#mediadesign` `#cloud` `#allthingsweb`
 
 Currently supporting Github.com's README Project and testing viable payment gateways for Magento Commerce OS (adobe) hosted on aws Cloud (Activate Founder's Program) via Bitnami by vmware Launchpad (now Broadcom) - Sponsoring is Easy - Click `'Sponsor'`
+If you would like to collaborate on an exisiting project - View Postman API Workspace - Replace your account credentials/env. variables after forking the repo to your respective Postman Workspace - Reference - Collection - https://bit.ly/3ZEHxgs
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp&theme=ocean-gradient)](https://git.io/streak-stats)
 
-I listen to `Post Malone` with `Travis Scott` on queue. Prefer `DTS Ultra` / `Dolby Atmos` at events, theatricals, other days - JBL Headphones.
+I listen to 'Scott Spencer Storch', `Post Malone` with `Travis Scott` on queue. Prefer `DTS Ultra` / `Dolby Atmos` at events, theatricals, other days - JBL Headphones.
 
 Banks of Choice - `Kotak Mahindra Bank` on VISA Card Network.
 
