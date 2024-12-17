@@ -9,6 +9,7 @@ Definitive Keywords
 
 Currently supporting Github.com's README Project and testing viable payment gateways for Magento Commerce OS (adobe) hosted on aws Cloud (Activate Founder's Program) via Bitnami by vmware Launchpad (now Broadcom) - Sponsoring is Easy - Click `'Sponsor'`
 If you would like to collaborate on an exisiting project - View Postman API Workspace - Replace your account credentials/env. variables after forking the repo to your respective Postman Workspace - Reference - Collection - https://bit.ly/3ZEHxgs
+You can use `Andromeda - ai GPT-Agent - powered by blackbox.ai` - `Safe Language Model enabled` - https://bit.ly/andromedagpt 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp&theme=ocean-gradient)](https://git.io/streak-stats)
 
