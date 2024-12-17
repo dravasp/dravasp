@@ -12,7 +12,7 @@ If you would like to collaborate on an exisiting project - View Postman API Work
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dravasp&theme=ocean-gradient)](https://git.io/streak-stats)
 
-I listen to 'Scott Spencer Storch', `Post Malone` with `Travis Scott` on queue. Prefer `DTS Ultra` / `Dolby Atmos` at events, theatricals, other days - JBL Headphones.
+I listen to `Scott Spencer Storch`, `Post Malone` with `Travis Scott` on queue. Prefer `DTS Ultra` / `Dolby Atmos` at events, theatricals, other days - JBL Headphones.
 
 Banks of Choice - `Kotak Mahindra Bank` on VISA Card Network.
 
